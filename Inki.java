@@ -10,6 +10,8 @@ String rinki = "monkey";
 
 Inki ponki = new Inki(pinki);
 
+Inki ponki2 = new Inki();
+
 }
 
 public Inki(String a){

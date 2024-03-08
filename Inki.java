@@ -4,7 +4,9 @@ public class Inki{
 
 public static void main(String[] args){
 
-String pinki = "donki";    
+String pinki = "donki";   
+String blinki ="Pinki";
+
 
 Inki ponki = new Inki(pinki);
 
